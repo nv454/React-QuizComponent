@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
 class QuizEnd extends Component {
     render() {
@@ -10,4 +10,4 @@ class QuizEnd extends Component {
         )
     }
 }
-export default  QuizEnd
+export default QuizEnd;
